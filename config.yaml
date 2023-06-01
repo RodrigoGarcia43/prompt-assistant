@@ -1,0 +1,33 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    ? ''
+    : 0
+    a:
+      email: rodrigo.garcia21111@gmail.com
+      format:
+      - '---'
+      - Puntos clave
+      - "Di\xE1logo"
+      - Lista
+      - Entrevista
+      - "An\xE1lisis comparativo"
+      - Tutorial
+      - "Cr\xEDtica"
+      - Resumen
+      lan: 0
+      name: Rodrigo
+      password: $2b$12$lpwCn9UOuHIqIgprPni3KOIp.7.iqrxgCxjfO7bUgNCNy3h/O./MS
+      style:
+      - "Humor\xEDstico"
+      - Amistoso
+      - "Acad\xE9mico"
+      - Convincente
+      - Profesional
+      - Mostro
+preauthorized:
+  emails:
+  - melsby@gmail.com
