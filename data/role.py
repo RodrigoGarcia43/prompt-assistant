@@ -25,5 +25,17 @@ esp = ["Experto SEO",
 "Entrenador deportivo", 
 "Estudiante de copywriting"]
 
+eng = ["SEO expert", 
+"Gastronomic critic", 
+"History professor", 
+"Republic supporter", 
+"Business law lawyer", 
+"UN neutral observer", 
+"Human rights defender", 
+"Medical researcher", 
+"Sports coach", 
+"Copywriting student"]
+
+role["english"] = ("Role", eng)
 role["francais"] = ("Róle", fran)
 role["español"] = ("Rol", esp)

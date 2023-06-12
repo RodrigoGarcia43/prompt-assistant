@@ -26,7 +26,18 @@ spa_keys = [
         "Proporcionar referencias bibliográficas completas para cada tema abordado"
 ]
 
+eng_keys = ["Include quotes from renowned experts",
+"Provide academic sources for each piece of information",
+"Include links to relevant case studies",
+"Request precise references for specific statements",
+"Cite recent research to support the information",
+"Provide concrete examples from experts in the field",
+"Include quotes from relevant books or articles",
+"Request reliable sources for each presented fact",
+"Cite scientific studies to support arguments",
+"Provide complete bibliographic references for each topic addressed"]
+
 citations["español"] = ("Citas", spa_keys)
 citations["francais"] = ("Citations",fran_keys)
-
+citations["english"] = ("Citations",eng_keys)
 

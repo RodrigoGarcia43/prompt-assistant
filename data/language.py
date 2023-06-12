@@ -25,14 +25,27 @@ esp = ["francés",
 "ruso",
 "árabe"]
 
+eng = ["French",
+"English",
+"Spanish",
+"German",
+"Italian",
+"Portuguese",
+"Chinese",
+"Japanese",
+"Russian",
+"Arabic"]
+
+language["english"] = ("Language", eng)
 language["francais"] = ("Langue", fran)
 language["español"] = ("idioma", esp)
 
 label = "Idioma/Language/Langue"
 
 keys = [
+    "francais",
         "español",
-        "francais",
+        
         "english",
         
         ]

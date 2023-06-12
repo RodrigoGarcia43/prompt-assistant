@@ -24,5 +24,18 @@ esp = ["Lanzamiento de un producto",
         "Progreso médico",
         "Evolución cultural"]
 
-context["francais"] = ("contexte", fran)
-context["español"] = ("contexto", esp)
+context["francais"] = ("Contexte", fran)
+context["español"] = ("Contexto", esp)
+
+eng = ["Product launch",
+"Historical event",
+"Scientific debate",
+"Technological advances",
+"Environmental problems",
+"Economic trends",
+"World politics",
+"Personal development",
+"Medical progress",
+"Cultural evolution"]
+
+context["english"] = ("Context", eng)

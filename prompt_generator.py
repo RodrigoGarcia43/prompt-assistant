@@ -1,3 +1,5 @@
+import streamlit as st
+
 templates = {}
 templates["francais"] = {
 "role_template" : "tu dois agir comme un {key}",
@@ -21,9 +23,20 @@ templates["español"] = {
 "target_template" : ".{key}.",
 "language_template" : "cuya respuesta debe ser en {key}"}
 
+templates["english"] = {
+"role_template": "you must act as a {key}",
+"style_template": "with a tone of {key}",
+"format_template": "for a {key}",
+"purpose_template": "whose purpose is {key}",
+"context_template": "the context refers to a {key}",
+"scope_template": "for a scope of {key}",
+"example_template": "this is an example of {key}",
+"target_template": ".{key}.",
+"language_template": "whose response should be in {key}"}
+
 def template_build(template,key, context):
     if len(key):
-        return templates[context["language"]][template].format(key=key)
+        return templates[st.session_state["language"]][template].format(key=key)
     return ""
 
 def build_text(context):

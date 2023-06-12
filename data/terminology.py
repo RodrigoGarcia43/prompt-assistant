@@ -25,5 +25,17 @@ esp = ["Utilice términos específicos de la industria financiera para explicar 
 "Evite el uso de términos especializados en arquitectura y prefiera descripciones más accesibles, como lo hace Stéphane Berge",
 "Utilice términos propios del campo de la educación para explicar los enfoques pedagógicos",]
 
+eng = ["Use specific terms from the financial industry to explain financial concepts",
+"Avoid the use of medical jargon and prioritize terms understandable to the general public",
+"Use technical computer terms to explain cybersecurity principles",
+"Avoid acronyms and prioritize explicit terms to facilitate understanding",
+"Use clear and accessible language to explain complex legal concepts",
+"Use terms from the marketing industry to describe advertising strategies",
+"Avoid overly technical terms and prioritize simplified explanations for beginners in science",
+"Use specific terms from the automotive industry to describe engine characteristics",
+"Avoid the use of specialized terms in architecture and prefer more accessible descriptions, as Stéphane Berge does",
+"Use terms from the field of education to explain pedagogical approaches",]
+
+terminology["english"] = ("Terminology", eng)
 terminology["francais"] = ("Terminologie", fran)
 terminology["español"] = ("Terminología", esp)

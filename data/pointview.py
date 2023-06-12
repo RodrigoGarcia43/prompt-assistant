@@ -24,5 +24,17 @@ esp = ["Tomar en cuenta las perspectivas de los economistas",
 "Tomar en cuenta las perspectivas de los líderes de opinión",
 "Examinar los puntos de vista de los representantes de la sociedad civil"]
 
+eng = ["To take into account the perspectives of economists",
+"Examine the opinions of psychology experts",
+"Consider the points of view of politicians from different parties",
+"Including opinions from industry specialists",
+"To take into account the opinions of environmental advocates",
+"Examine the points of view of human rights defenders",
+"Consider the opinions of renowned philosophers",
+"Including points of view from technology researchers",
+"To take into account the perspectives of opinion leaders",
+"Examine the points of view of representatives of civil society"]
+
+pointview["english"] = ("Point of view", eng)
 pointview["francais"] = ("Points de vue", fran)
 pointview["español"] = ("Punto de vista", esp)

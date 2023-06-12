@@ -25,5 +25,17 @@ esp = ["Contenido adaptado para estudiantes universitarios",
 "Contenido dirigido a viajeros aventureros",
 "Adaptado para personas interesadas en finanzas personales"]
 
+eng = ["Content adapted for university students",
+"Content aimed at marketing professionals",
+"Adapted for beginners in programming",
+"Content directed at small business owners",
+"Adapted for fitness enthusiasts",
+"Content aimed at parents of teenagers",
+"Directed at vegan cooking enthusiasts",
+"Adapted for video game enthusiasts",
+"Content directed at adventurous travelers",
+"Adapted for individuals interested in personal finance"]
+
+target["english"] = ("Target", eng)
 target["francais"] = ("Cible", fran)
 target["español"] = ("Objetivo", esp)

@@ -24,5 +24,17 @@ esp = ["Respuesta en menos de 500 palabras",
 "Respuesta en una sola frase",
 "Respuesta del tamaño de un SMS",]
 
+eng = ["Answer in less than 500 words",
+"No more than 3 paragraphs",
+"Limit of 2000 characters",
+"Concise answer in a maximum of 100 words",
+"No more than 2 pages",
+"Limit of 250 words or 3 sentences",
+"Structured answer in 5 sections",
+"No more than 3 main points",
+"One-sentence answer",
+"Answer the size of an SMS"]
+
+limitations["english"] = ("Limitations", eng)
 limitations["francais"] = ("Limitations", fran)
 limitations["español"] = ("Limitaciones", esp)

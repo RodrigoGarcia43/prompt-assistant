@@ -26,6 +26,20 @@ esp = [
 "Futurista"
 ]
 
+eng = [
+"General",
+"Specific",
+"National",
+"International",
+"Regional",
+"Macro-economic",
+"Micro-economic",
+"Theoretical",
+"Practical",
+"Futuristic"
+]
+
+scope["english"] = ("Scope", eng)
 scope["francais"] = ("Porteé", fran)
 scope["español"] = ("Alcance", esp)
 

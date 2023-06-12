@@ -25,5 +25,17 @@ esp = ["Informar",
         "Motivar",
         "Sensibilizar"]
 
+eng = ["To inform",
+"To persuade",
+"To entertain",
+"To educate",
+"To inspire",
+"To refute",
+"To solve a problem",
+"To provoke a reflection",
+"To motivate",
+"To sensitize"]
+
+purpose["english"] = ("purpose", eng)
 purpose["francais"] = ("Objetif", fran)
 purpose["español"] = ("Propósito", esp)

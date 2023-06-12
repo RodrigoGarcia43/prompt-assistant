@@ -26,5 +26,18 @@ esp = [
 "Crítica",
 "Resumen"]
 
+eng = [
+"Essay",
+"Key points",
+"Plan",
+"Dialogue",
+"List",
+"Interview",
+"Comparative analysis",
+"Tutorial",
+"Critique",
+"Summary"]
+
+format["english"] = ("Format", eng)
 format["francais"] = ("Format", fran)
 format["español"] = ("Formato", esp)

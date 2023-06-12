@@ -25,5 +25,17 @@ esp = ["Aborde los argumentos a favor del modelo económico competitivo",
 "Aborde las críticas relacionadas con los efectos secundarios potenciales de un determinado medicamento",
 "Analice los argumentos en contra sobre las ventajas y desventajas de las energías renovables"]
 
+eng = ["Address the arguments in favor of the competitive economic model",
+"Examine the arguments against related to environmental impacts",
+"Take into account divergent opinions on the benefits of technology",
+"Analyze common criticisms regarding the proposed government policy",
+"Refute arguments against the effectiveness of specific diets",
+"Address expressed concerns about the safety of autonomous vehicles",
+"Examine arguments against the effectiveness of measures to combat climate change",
+"Refute common objections regarding the impact of social media on mental health",
+"Address criticisms related to potential side effects of a certain medication",
+"Analyze arguments against the advantages and disadvantages of renewable energies"]
+
+conterag["english"] = ("Counter argument", eng)
 conterag["francais"] = ("Contre arguments", fran)
 conterag["español"] = ("Contraargumento", esp)

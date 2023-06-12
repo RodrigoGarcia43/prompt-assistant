@@ -25,5 +25,17 @@ esp = ["Formal",
 "Profesional",
 "Poético"]
 
+eng = ["Formal",
+"Casual",
+"Informative",
+"Persuasive",
+"Humorous",
+"Friendly",
+"Academic",
+"Compelling",
+"Professional",
+"Poetic"]
+
+style["english"] = ["style", eng]
 style["francais"] = ["Ton", fran]
 style["español"] = ["Estilo", esp]

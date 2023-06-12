@@ -18,7 +18,7 @@ credentials:
       - Tutorial
       - "Cr\xEDtica"
       - Resumen
-      lan: 0
+      lan: 1
       name: Rodrigo
       password: $2b$12$lpwCn9UOuHIqIgprPni3KOIp.7.iqrxgCxjfO7bUgNCNy3h/O./MS
       style:
@@ -28,6 +28,22 @@ credentials:
       - Convincente
       - Profesional
       - Mostro
+    b:
+      email: asd@algo
+      lan: 1
+      name: Bob
+      password: $2b$12$6BuA4oAQRFm369WCy5TobOcG6E8oc3m0ycjduVX7YHbFHC4oWVE2a
+      style:
+      - '---'
+      - Desenfadado
+      - Informativo
+      - Persuasivo
+      - "Humor\xEDstico"
+      - Amistoso
+      - "Acad\xE9mico"
+      - Convincente
+      - Profesional
+      - "Po\xE9tico"
 preauthorized:
   emails:
   - melsby@gmail.com
