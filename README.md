@@ -1,1 +1,1 @@
-# prompt-assistent
+# prompt-assistant
